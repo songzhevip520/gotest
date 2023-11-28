@@ -6,6 +6,7 @@ import (
 	"fast/user"
 )
 
+// test
 func search() int {
 	var nums = []int{1, 2, 3, 5, 6, 7}
 	var target int = 5
